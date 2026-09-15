@@ -71,3 +71,5 @@ Casual riders show a stronger preference for electric bikes (71.2%) than members
 ## Tools Used
 
 Python (pandas, matplotlib, seaborn) in Jupyter Notebook
+
+📓 [View full analysis notebook](cyclistic_project.ipynb)

@@ -1,5 +1,17 @@
-# cyclistic-bikeshare-analysis
-Bike-share usage analysis comparing annual members vs casual riders — Google Data Analytics Certificate Case Study
+# Cyclistic Bike-Share Analysis
+
+Google Data Analytics Professional Certificate — Case Study 1
+
+Bike-share usage analysis comparing annual members vs casual riders
+
+## Table of Contents
+- [Business Task](#business-task)
+- [Data Sources](#data-sources)
+- [Data Cleaning](#data-cleaning)
+- [Key Findings](#key-findings)
+- [Recommendations](#recommendations)
+- [Tools Used](#tools-used)
+
 ## Business Task
 
 Analyze 12 months of Cyclistic trip data (September 2025 – August 2026) to identify how annual members and casual riders use Cyclistic bikes differently. These insights will support the marketing team in designing a strategy to convert casual riders into annual members.

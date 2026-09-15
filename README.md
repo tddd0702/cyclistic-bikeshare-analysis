@@ -36,13 +36,25 @@ Casual riders show a stronger preference for electric bikes (71.2%) compared to 
 
 ![Bike Type Preference](bike_type_preference.png)
 
-### 4. Monthly Trend
+### 4. Seasonal Trend
+
+Both rider types show a clear seasonal pattern, peaking in summer (Jun–Aug) and declining sharply in winter (Dec–Jan). However, casual riders show far greater seasonal sensitivity — ride volume increases roughly 9x from winter low to summer peak, compared to only ~3x for members. This suggests members maintain consistent usage year-round (likely driven by commuting needs), while casual ridership is heavily weather-dependent and recreational in nature.
+
+*Note: Months are ordered by calendar month (Jan–Dec) to highlight seasonal patterns, as the 12-month dataset spans September 2025 to August 2026.*
 
 ![Monthly Trend](monthly_trend.png)
-
 ## Recommendations
 
-*(To be finalized after completing seasonal trend analysis)*
+Based on the analysis of ride length, weekly patterns, bike type preference, and seasonal trends, here are three recommendations to help convert casual riders into annual members:
+
+**1. Launch a "Weekend-to-Weekday" membership trial**
+Casual riders are heavily weekend-concentrated and show no weekday commuting pattern. Rather than marketing annual membership as a "commuter" product, offer a limited-time trial (e.g., discounted membership for the first month) that lets casual riders experience weekday convenience and pricing benefits — nudging them to build a weekday riding habit before committing.
+
+**2. Target the summer peak with a seasonal membership push**
+Casual ridership grows ~9x from winter to summer, while member ridership stays comparatively stable year-round. This means casual riders are most active — and most likely to be considering bike-share as a genuine transportation option — during Jun–Aug. Concentrate membership conversion campaigns (e.g., station signage, in-app prompts after a ride) during this window, when casual riders are already engaged and price-sensitive to single-ride costs adding up.
+
+**3. Promote membership value through the electric bike experience**
+Casual riders show a stronger preference for electric bikes (71.2%) than members (66.0%), and take notably longer rides overall. A membership pricing structure that includes reduced or capped electric bike surcharges could directly appeal to casual riders' existing usage pattern, framing membership as a cost-saving upgrade to a bike type they already prefer.
 
 ## Tools Used
 
